@@ -1,0 +1,9 @@
+.env
+.idea/
+LangChain/.idea/
+FastAPI/.idea/
+FastAPI/.venv/
+FastAPI/__pycache__/
+QuestionBank/.idea/
+QuestionBank/from quera/
+QuestionBank/from sana/
